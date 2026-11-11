@@ -26,7 +26,7 @@ Minh chứng và code ở trong các folders tương ứng của mỗi bài !
 | --- | --- |
 | Tên thiết bị BLE | nhom3 — nRF Connect quét thấy và kết nối được |
 | Giá trị đặc tính | MSSV 25119003 — đọc được trên nRF Connect |
-| `PROPERTY_WRITE` | Ghi `Hihi chao cau` → đọc lại thấy giá trị mới |
+| `PROPERTY_WRITE` | Ghi cho hôn miếng → đọc lại thấy giá trị mới |
 
 Log Serial: `Dien thoai DOC: MSSV 25119003` → `Dien thoai GHI gia tri moi: Hihi chao cau` → `Dien thoai DOC: Hihi chao cau`.
 
