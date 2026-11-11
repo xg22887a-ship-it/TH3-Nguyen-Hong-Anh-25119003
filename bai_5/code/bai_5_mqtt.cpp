@@ -6,8 +6,8 @@ const char* ssid = "TEN_WIFI";
 const char* pass = "MAT_KHAU";
 
 const char* broker = "test.mosquitto.org";
-const char* topic = "bcse/th3/nhom-Kud0_75";
-const char* topicLed = "bcse/th3/nhom-Kud0_75/led";
+const char* topic = "bica/th3/nhom3";
+const char* topicLed = "bica/th3/nhom3/led";
 const int LED = 2;
 
 WiFiClient wifi;
@@ -50,7 +50,7 @@ void setup() {
   }
   Serial.print("\nIP: ");
   Serial.println(WiFi.localIP());
-  clientId = "esp32-Kud0_75-" + String((uint32_t)ESP.getEfuseMac(), HEX);
+  clientId = "esp32-nhom3-" + String((uint32_t)ESP.getEfuseMac(), HEX);
   mqtt.setServer(broker, 1883);
   mqtt.setCallback(nhanTin);
   noiBroker();
