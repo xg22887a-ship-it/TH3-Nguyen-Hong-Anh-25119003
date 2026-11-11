@@ -1,0 +1,147 @@
+04:23:37 ets Jul 29 2019 12:21:46
+04:23:37 
+04:23:37 rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+04:23:37 configsip: 0, SPIWP:0xee
+04:23:37 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+04:23:37 mode:DIO, clock div:1
+04:23:37 load:0x3fff0030,len:4876
+04:23:37 ho 0 tail 12 room 4
+04:23:37 load:0x40078000,len:16532
+04:23:37 load:0x40080400,len:3500
+04:23:37 entry 0x400805b4
+04:23:38 Dang noi vao miu diềm
+04:23:39 .
+04:23:39 .
+04:23:40 .
+04:23:40 .
+04:23:40 IP: 192.168.0.101
+04:23:40 Noi broker test.mosquitto.org voi client id esp32-Kud0_75-63daf380 ...
+04:23:41 OK
+04:23:41 Da subscribe bcse/th3/nhom-Kud0_75/led
+04:23:41 Publish [bcse/th3/nhom-Kud0_75]: 0
+04:23:43 Publish [bcse/th3/nhom-Kud0_75]: 1
+04:23:45 Publish [bcse/th3/nhom-Kud0_75]: 2
+04:23:47 Publish [bcse/th3/nhom-Kud0_75]: 3
+04:23:49 Publish [bcse/th3/nhom-Kud0_75]: 4
+04:23:51 Publish [bcse/th3/nhom-Kud0_75]: 5
+04:23:53 Publish [bcse/th3/nhom-Kud0_75]: 6
+04:23:55 Publish [bcse/th3/nhom-Kud0_75]: 7
+04:23:57 Publish [bcse/th3/nhom-Kud0_75]: 8
+04:23:59 Publish [bcse/th3/nhom-Kud0_75]: 9
+04:24:01 Publish [bcse/th3/nhom-Kud0_75]: 10
+04:24:03 Publish [bcse/th3/nhom-Kud0_75]: 11
+04:24:05 Publish [bcse/th3/nhom-Kud0_75]: 12
+04:24:07 Publish [bcse/th3/nhom-Kud0_75]: 13
+04:24:09 Publish [bcse/th3/nhom-Kud0_75]: 14
+04:24:11 Publish [bcse/th3/nhom-Kud0_75]: 15
+04:24:13 Publish [bcse/th3/nhom-Kud0_75]: 16
+04:24:13 Nhan [bcse/th3/nhom-Kud0_75/led]: 1
+04:24:13 LED -> BAT
+04:24:15 Publish [bcse/th3/nhom-Kud0_75]: 17
+04:24:16 Nhan [bcse/th3/nhom-Kud0_75/led]: 0
+04:24:16 LED -> TAT
+04:24:17 Publish [bcse/th3/nhom-Kud0_75]: 18
+04:24:19 Publish [bcse/th3/nhom-Kud0_75]: 19
+04:24:21 Publish [bcse/th3/nhom-Kud0_75]: 20
+04:24:23 Publish [bcse/th3/nhom-Kud0_75]: 21
+04:24:25 Publish [bcse/th3/nhom-Kud0_75]: 22
+04:24:27 Publish [bcse/th3/nhom-Kud0_75]: 23
+04:24:29 Publish [bcse/th3/nhom-Kud0_75]: 24
+04:24:31 Publish [bcse/th3/nhom-Kud0_75]: 25
+04:24:33 Publish [bcse/th3/nhom-Kud0_75]: 26
+04:24:35 Publish [bcse/th3/nhom-Kud0_75]: 27
+04:24:37 Publish [bcse/th3/nhom-Kud0_75]: 28
+04:24:39 Publish [bcse/th3/nhom-Kud0_75]: 29
+04:24:41 Publish [bcse/th3/nhom-Kud0_75]: 30
+04:24:43 Publish [bcse/th3/nhom-Kud0_75]: 31
+04:24:45 Publish [bcse/th3/nhom-Kud0_75]: 32
+04:24:47 Publish [bcse/th3/nhom-Kud0_75]: 33
+04:24:49 Publish [bcse/th3/nhom-Kud0_75]: 34
+04:24:51 Publish [bcse/th3/nhom-Kud0_75]: 35
+04:24:53 Publish [bcse/th3/nhom-Kud0_75]: 36
+04:24:55 Publish [bcse/th3/nhom-Kud0_75]: 37
+04:24:57 Publish [bcse/th3/nhom-Kud0_75]: 38
+04:24:59 Publish [bcse/th3/nhom-Kud0_75]: 39
+04:25:01 Publish [bcse/th3/nhom-Kud0_75]: 40
+04:25:03 Publish [bcse/th3/nhom-Kud0_75]: 41
+04:25:05 Publish [bcse/th3/nhom-Kud0_75]: 42
+04:25:07 Publish [bcse/th3/nhom-Kud0_75]: 43
+04:25:09 Publish [bcse/th3/nhom-Kud0_75]: 44
+04:25:11 Publish [bcse/th3/nhom-Kud0_75]: 45
+04:25:13 Publish [bcse/th3/nhom-Kud0_75]: 46
+04:25:15 Publish [bcse/th3/nhom-Kud0_75]: 47
+04:25:17 Publish [bcse/th3/nhom-Kud0_75]: 48
+04:25:19 Publish [bcse/th3/nhom-Kud0_75]: 49
+04:25:21 Publish [bcse/th3/nhom-Kud0_75]: 50
+04:25:23 Publish [bcse/th3/nhom-Kud0_75]: 51
+04:25:25 Publish [bcse/th3/nhom-Kud0_75]: 52
+04:25:27 Publish [bcse/th3/nhom-Kud0_75]: 53
+04:25:29 Publish [bcse/th3/nhom-Kud0_75]: 54
+04:25:31 Publish [bcse/th3/nhom-Kud0_75]: 55
+04:25:33 Publish [bcse/th3/nhom-Kud0_75]: 56
+04:25:35 Publish [bcse/th3/nhom-Kud0_75]: 57
+04:25:37 Publish [bcse/th3/nhom-Kud0_75]: 58
+04:25:39 Publish [bcse/th3/nhom-Kud0_75]: 59
+04:25:41 Publish [bcse/th3/nhom-Kud0_75]: 60
+04:25:43 Publish [bcse/th3/nhom-Kud0_75]: 61
+04:25:45 Publish [bcse/th3/nhom-Kud0_75]: 62
+04:25:47 Publish [bcse/th3/nhom-Kud0_75]: 63
+04:25:49 Publish [bcse/th3/nhom-Kud0_75]: 64
+04:25:51 Publish [bcse/th3/nhom-Kud0_75]: 65
+04:25:53 Publish [bcse/th3/nhom-Kud0_75]: 66
+04:25:55 Publish [bcse/th3/nhom-Kud0_75]: 67
+04:25:57 Publish [bcse/th3/nhom-Kud0_75]: 68
+04:25:59 Publish [bcse/th3/nhom-Kud0_75]: 69
+04:26:01 Publish [bcse/th3/nhom-Kud0_75]: 70
+04:26:03 Publish [bcse/th3/nhom-Kud0_75]: 71
+04:26:05 Publish [bcse/th3/nhom-Kud0_75]: 72
+04:26:07 Publish [bcse/th3/nhom-Kud0_75]: 73
+04:26:09 Publish [bcse/th3/nhom-Kud0_75]: 74
+04:26:11 Publish [bcse/th3/nhom-Kud0_75]: 75
+04:26:13 Publish [bcse/th3/nhom-Kud0_75]: 76
+04:26:15 Publish [bcse/th3/nhom-Kud0_75]: 77
+04:26:17 Publish [bcse/th3/nhom-Kud0_75]: 78
+04:26:19 Publish [bcse/th3/nhom-Kud0_75]: 79
+04:26:21 Publish [bcse/th3/nhom-Kud0_75]: 80
+04:26:23 Publish [bcse/th3/nhom-Kud0_75]: 81
+04:26:25 Publish [bcse/th3/nhom-Kud0_75]: 82
+04:26:27 Publish [bcse/th3/nhom-Kud0_75]: 83
+04:26:29 Publish [bcse/th3/nhom-Kud0_75]: 84
+04:26:31 Publish [bcse/th3/nhom-Kud0_75]: 85
+04:26:33 Publish [bcse/th3/nhom-Kud0_75]: 86
+04:26:35 Publish [bcse/th3/nhom-Kud0_75]: 87
+04:26:37 Publish [bcse/th3/nhom-Kud0_75]: 88
+04:26:39 Publish [bcse/th3/nhom-Kud0_75]: 89
+04:26:41 Publish [bcse/th3/nhom-Kud0_75]: 90
+04:26:43 Publish [bcse/th3/nhom-Kud0_75]: 91
+04:26:45 Publish [bcse/th3/nhom-Kud0_75]: 92
+04:26:47 Publish [bcse/th3/nhom-Kud0_75]: 93
+04:26:49 Publish [bcse/th3/nhom-Kud0_75]: 94
+04:26:51 Publish [bcse/th3/nhom-Kud0_75]: 95
+04:26:53 Publish [bcse/th3/nhom-Kud0_75]: 96
+04:26:55 Publish [bcse/th3/nhom-Kud0_75]: 97
+04:26:57 Publish [bcse/th3/nhom-Kud0_75]: 98
+04:26:59 Publish [bcse/th3/nhom-Kud0_75]: 99
+04:27:01 Publish [bcse/th3/nhom-Kud0_75]: 100
+04:27:03 Publish [bcse/th3/nhom-Kud0_75]: 101
+04:27:05 Publish [bcse/th3/nhom-Kud0_75]: 102
+04:27:07 Publish [bcse/th3/nhom-Kud0_75]: 103
+04:27:09 Publish [bcse/th3/nhom-Kud0_75]: 104
+04:27:10 Nhan [bcse/th3/nhom-Kud0_75/led]: 1
+04:27:10 LED -> BAT
+04:27:11 Publish [bcse/th3/nhom-Kud0_75]: 105
+04:27:11 Nhan [bcse/th3/nhom-Kud0_75/led]: 1
+04:27:11 LED -> BAT
+04:27:13 Publish [bcse/th3/nhom-Kud0_75]: 106
+04:27:14 Nhan [bcse/th3/nhom-Kud0_75/led]: 0
+04:27:14 LED -> TAT
+04:27:15 Publish [bcse/th3/nhom-Kud0_75]: 107
+04:27:17 Publish [bcse/th3/nhom-Kud0_75]: 108
+04:27:19 Publish [bcse/th3/nhom-Kud0_75]: 109
+04:27:21 Publish [bcse/th3/nhom-Kud0_75]: 110
+04:27:23 Publish [bcse/th3/nhom-Kud0_75]: 111
+04:27:25 Publish [bcse/th3/nhom-Kud0_75]: 112
+04:27:27 Publish [bcse/th3/nhom-Kud0_75]: 113
+04:27:29 Publish [bcse/th3/nhom-Kud0_75]: 114
+04:27:31 Publish [bcse/th3/nhom-Kud0_75]: 115
+04:27:33 Publish [bcse/th3/nhom-Kud0_75]: 116
