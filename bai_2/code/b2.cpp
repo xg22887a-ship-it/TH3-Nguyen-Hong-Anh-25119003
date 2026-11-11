@@ -34,7 +34,7 @@ void setup() {
   auto *ch = se->createCharacteristic(CH_UUID,
     BLECharacteristic::PROPERTY_READ | BLECharacteristic::PROPERTY_WRITE);
   ch->setCallbacks(new CharCallbacks());
-  ch->setValue("MSSV 25112231");
+  ch->setValue("MSSV 25119003");
   se->start();
   BLEDevice::getAdvertising()->addServiceUUID(SV_UUID);
   BLEDevice::getAdvertising()->start();
